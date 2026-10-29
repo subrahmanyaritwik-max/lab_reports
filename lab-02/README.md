@@ -8,7 +8,9 @@
 
 ## Live Link
 
-**Deployment URL:** https://lab-reports-1-eiis.onrender.com
+- **Deployment URL:** https://lab-reports-1-eiis.onrender.com
+- **Get All Books:** https://lab-reports-1-eiis.onrender.com/books/
+- **Get Single Book:** https://lab-reports-1-eiis.onrender.com/books/1/
 
 *(Hosted on Render's free tier. The first request after a period of inactivity can take up to a minute while the server wakes up.)*
 
