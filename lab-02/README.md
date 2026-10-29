@@ -8,7 +8,9 @@
 
 ## Live Link
 
-**Deployment URL:** N/A (Tested locally with Postman and SQLite database; see screenshots below)
+**Deployment URL:** https://lab-reports-1-eiis.onrender.com
+
+*(Hosted on Render's free tier. The first request after a period of inactivity can take up to a minute while the server wakes up.)*
 
 ## Objective
 
