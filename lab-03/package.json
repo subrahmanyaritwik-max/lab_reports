@@ -10,6 +10,9 @@
   "keywords": ["nodejs", "express", "sqlite", "rest", "validation"],
   "author": "G.S.RITWIK",
   "license": "ISC",
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "express": "^5.3.0",
     "sqlite": "^5.1.1",
