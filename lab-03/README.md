@@ -8,9 +8,14 @@
 
 ## Live Link
 
-**Deployment URL:** YOUR_LIVE_URL_HERE
+- **Deployment URL:** https://lab-reports-3-bfs1.onrender.com/books/
+- **Get All Books:** https://lab-reports-3-bfs1.onrender.com/books/
+- **Filter by Price:** https://lab-reports-3-bfs1.onrender.com/books/?min_price=250&max_price=500
+- **Search:** https://lab-reports-3-bfs1.onrender.com/books/?search_q=Clean
+- **Sort & Pagination:** https://lab-reports-3-bfs1.onrender.com/books/?order_by=price&order=DESC&limit=5&offset=0
+- **Get Single Book:** https://lab-reports-3-bfs1.onrender.com/books/1/
 
-*(If the project cannot be deployed, replace this line with the reason and rely on the Postman screenshots below.)*
+*(Hosted on Render's free tier. The first request after a period of inactivity can take up to a minute while the server wakes up.)*
 
 ## Objective
 
