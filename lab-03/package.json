@@ -5,6 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "build": "npm rebuild sqlite3 --build-from-source",
+    "postinstall": "node -e \"if (process.platform === 'linux') { require('child_process').execSync('npm rebuild sqlite3 --build-from-source', { stdio: 'inherit' }); }\"",
     "dev": "nodemon app.js"
   },
   "keywords": ["nodejs", "express", "sqlite", "rest", "validation"],
